@@ -1,0 +1,3 @@
+# Prepared cron task
+# daily - clear rooms and players, session and stotages
+* * * 23 * cd /server/path/to/project && ./clear (generated go utility)
